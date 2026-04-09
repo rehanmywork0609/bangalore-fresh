@@ -62,7 +62,7 @@ $title = "Bangalore Fresh - Home";
 <div class="products">
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1574226516831-e1dff420e8f8" width="100%">
+        <img src="https://www.pexels.com/photo/vibrant-display-of-fresh-tropical-fruits-30740199/">
         <h3>Fruits</h3>
         <p>Fresh seasonal fruits</p>
     </div>
