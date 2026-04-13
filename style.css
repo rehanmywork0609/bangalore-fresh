@@ -1,26 +1,25 @@
-<head>
-<title>FreshMarket</title>
-
-<style>
 .category-container {
   display: flex;
-  gap: 20px;
   justify-content: center;
-  flex-wrap: wrap;
+  gap: 15px;
+  background: #000;
+  padding: 15px;
+  border-radius: 50px;
+  width: fit-content;
+  margin: 20px auto;
 }
 
-.category-card {
+.category-card a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 22px;
+  display: block;
+  border-radius: 30px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.category-card a:hover {
   background: #fff;
-  padding: 20px 30px;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  text-align: center;
-  transition: 0.3s;
+  color: #000;
 }
-
-.category-card:hover {
-  transform: translateY(-5px);
-}
-</style>
-
-</head>
